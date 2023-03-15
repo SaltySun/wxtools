@@ -1,1 +1,2 @@
 # wxtools
+backendist文件内为后台启动后端，其目录需要在background.js中更改测试环境的路径
